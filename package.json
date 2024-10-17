@@ -1,0 +1,22 @@
+{
+  "name": "xrp-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HemingwayLee/xrp-wallet-js.git"
+  },
+  "author": "ywlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HemingwayLee/xrp-wallet-js/issues"
+  },
+  "homepage": "https://github.com/HemingwayLee/xrp-wallet-js#readme",
+  "dependencies": {
+    "xrpl": "^4.0.0"
+  }
+}
